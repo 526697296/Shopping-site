@@ -32,5 +32,5 @@ npm run build
 
 
 ### 相关截图
-![website](https://github.com/526697296/images/mrz/MrZ_1.png)
+![website](https://github.com/526697296/English-website/blob/master/images/banner/1.png)
 
