@@ -1,2 +1,2 @@
-# English-website
-这是一个用html+css+js制作的简单的网站页面
+<p align="center"><a href=" https://526697296.github.io/English-website/" target="_blank"><img height="964" width="314"src="https://github.com/526697296/English-website/tree/master/images/mrz/MrZ_1.png"></a></p>
+<p align="center">English website</p>
