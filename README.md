@@ -1,42 +1,36 @@
-<<<<<<< HEAD
-<p align="center"><a href=" https://526697296.github.io/English-website/" target="_blank"><img height="964" width="314"src="https://github.com/526697296/images/mrz/MrZ_1.png"></a></p>
 <p align="center">English website</p>
-=======
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/526697296/English-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 实现的功能
+1. 音乐播放、暂停、上一曲、下一曲
+2. 播放列表、添加到播放列表、做为下一首播放
+3. 搜索单曲、歌手、专辑、MV
+4. 查看歌手页面、专辑页面、MV
+5. 热门搜索
+6. 搜索历史记录
+7. 排行榜
+8. 切换播放模式
+9. 歌词
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 未实现的功能
+*   我喜欢
+*   下载
 
-### Markdown
+## Build Setup
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+``` bash
+# 下载或克隆下来，然后安装依赖
+npm install
 
-```markdown
-Syntax highlighted code block
+# 开发预览
+npm run dev
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# 打包发布，生成的文件在dist文件夹中
+npm run build
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# 截图
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/526697296/English-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 相关截图
+![website](https://github.com/526697296/images/mrz/MrZ_1.png)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
->>>>>>> 553e8886a20cba5fde1c9475571faabc358b6ce2
