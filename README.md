@@ -16,4 +16,4 @@
 ### 相关截图
 ![website](https://github.com/526697296/English-website/blob/master/images/banner/1.png)
 
-[演示地址](https://526697296.github.io/English-website/)
+[演示地址](https://526697296.github.io/JavaScript-Shopping-site-demo/)
